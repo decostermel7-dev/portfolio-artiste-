@@ -53,4 +53,4 @@ a { /* La balise a représente les liens. Par défaut, ils sont bleus et soulign
     color: inherit; /* inherit = « prends la même valeur que l'élément parent ». Le lien garde la couleur du texte qui l'entoure. */
 
     text-decoration: none; /* Supprime le soulignement par défaut des liens. */
-
+}
